@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://samosas84-wince.github.io/sz-f33/sitemap.xml
